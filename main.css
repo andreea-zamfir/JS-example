@@ -1,3 +1,9 @@
 body{
  background-color: rgb(173, 230, 176);
+ font-family: Arial;
+ font-size: 20px;
+}
+
+h1 {
+    font-size: 40px;
 }
