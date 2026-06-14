@@ -8,4 +8,4 @@ let firstJob = "Coder"
 let myCurrentJob = "Teacher"
 
 console.log(firstJob);
-console.log(myCurrentJob);
+console.log(myCurrentJob);  
