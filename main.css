@@ -1,8 +1,7 @@
 body{
- background-color: white;
+ background-color: green;
  font-family: Arial;
  font-size: 20px;
-}
 
 .first-paragraph {
  color: blue;
@@ -15,4 +14,4 @@ body{
 .third-paragraph {
  color: red;
 }
-
+}
