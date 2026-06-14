@@ -57,3 +57,7 @@ input,button {
 a {
     background-color: rgb(249, 253, 0);
 }
+
+#photography-logo {
+ width: 200px;
+}
