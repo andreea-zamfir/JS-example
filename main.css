@@ -19,7 +19,12 @@ h1 {
 .third-paragraph {
  color: red;
 }
+
 #your-name {
     background-color: rgb(255, 194, 175);
     border: 2px solid black;
-    }  
+    padding: 16px;
+    margin: 20px auto;
+    max-width: 500px;
+    box-sizing: border-box;
+}
