@@ -4,3 +4,15 @@ body{
  font-size: 20px;
 }
 
+.first-paragraph {
+ color: blue;
+}
+
+.second-paragraph {
+ color: green;
+}
+
+.third-paragraph {
+ color: red;
+}
+
