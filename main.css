@@ -1,11 +1,19 @@
+*{
+margin: 0; 
+padding: 0;
+box-sizing: border-box;
+}
+
 body {
  background-color: rgb(173, 230, 176);
  font-family: Arial;
  font-size: 20px;
+ padding: 50px;
 }
 
 h1 {
     font-size: 60px;
+    margin-bottom: 25px;
 }
 
 .first-paragraph {
@@ -21,12 +29,7 @@ h1 {
 }
 
 #your-name {
-    display: block;
     background-color: rgb(255, 194, 175);
     border: 4px dashed #000;
     color: #000;
-    padding: 24px;
-    margin: 20px auto;
-    max-width: 520px;
-    box-sizing: border-box;
 }
