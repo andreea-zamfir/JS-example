@@ -53,3 +53,7 @@ input,button {
     border: none;
     border-radius: 5px;
 }
+
+a {
+    background-color: rgb(255, 194, 175);
+}
