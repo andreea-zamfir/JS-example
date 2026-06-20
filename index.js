@@ -1,6 +1,6 @@
 // this is my first JavaScript code!
 
-let javascriptIsFun = true;
+/* let javascriptIsFun = true;
 console.log(javascriptIsFun);
 
 //console.log(typeof true);
@@ -17,4 +17,4 @@ console.log(typeof year);
 
 year = 1991;
 console.log(typeof year);
-console.log(typeof null);
+console.log(typeof null); */
