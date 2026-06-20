@@ -18,3 +18,9 @@ console.log(typeof year);
 year = 1991;
 console.log(typeof year);
 console.log(typeof null); */
+
+let age = 30;
+age = 31;
+
+const birthYear = 1991;
+// birthYear = 1990; // this will cause an error because we cannot change the value of a constant variable
