@@ -1,11 +1,10 @@
 // this is my first JavaScript code!
 
-let firstName = "Andreea";
-console.log(firstName);
-console.log(firstName);
+let javascriptIsFun = "true";
+console.log(javascriptIsFun);
+console.log(javascriptIsFun);
 
-let firstJob = "Coder"
-let myCurrentJob = "Teacher"
-
-console.log(firstJob);
-console.log(myCurrentJob);  
+console.log(typeof true);
+console.log(typeof javascriptIsFun); 
+console.log(typeof 23);
+console.log(typeof "Jonas"); 
